@@ -1,0 +1,184 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+  
+  li {
+    border-right: 1px solid #bbb;
+  }
+  
+  
+  
+  ul {
+    top: 0;
+    width: 100%;
+  }
+  
+  section
+  {
+   background: #4e54c8;
+  background: -webkit-linear-gradient(to right, #8f94fb, #4e54c8);
+  background: linear-gradient(to right, #8f94fb, #4e54c8);
+  }
+  #div161
+{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example
+{
+    from{box-shadow: 1px 1px 38px red;}
+    to{box-shadow: 1px 1px 38px yellow;}
+}
+#div162
+{
+    animation-name: example1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example1
+{
+    from{box-shadow: 1px 1px 38px rgb(255, 190, 190);}
+    to{box-shadow: 1px 1px 38px rgb(255, 0, 0);}
+}
+#div163
+{
+    animation-name: example2;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example2
+{
+    from{box-shadow: 1px 1px 38px rgb(192, 255, 186);}
+    to{box-shadow: 1px 1px 38px rgb(81, 255, 0);}
+}
+#div164
+{
+    animation-name: example3;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example3
+{
+    from{box-shadow: 1px 1px 38px rgb(249, 186, 255);}
+    to{box-shadow: 1px 1px 38px rgb(212, 0, 255);}
+}
+#div165
+{
+    animation-name: example4;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example4
+{
+  from{box-shadow: 1px 1px 38px rgb(192, 255, 186);}
+  to{box-shadow: 1px 1px 38px rgb(81, 255, 0);}
+}  
+#div166
+{
+    animation-name: example5;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example5
+{
+  from{box-shadow: 1px 1px 38px rgb(255, 190, 190);}
+  to{box-shadow: 1px 1px 38px rgb(255, 0, 0);}
+}
+#div167
+{
+    animation-name: example6;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example6
+{
+  from{box-shadow: 1px 1px 38px rgb(192, 255, 186);}
+  to{box-shadow: 1px 1px 38px rgb(81, 255, 0);}
+}
+#div168
+{
+    animation-name: example7;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example7
+{
+  from{box-shadow: 1px 1px 38px rgb(192, 255, 186);}
+  to{box-shadow: 1px 1px 38px rgb(81, 255, 0);}
+}
+#div169
+{
+    animation-name: example8;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example8
+{
+  from{box-shadow: 1px 1px 38px rgb(192, 255, 186);}
+  to{box-shadow: 1px 1px 38px rgb(81, 255, 0);}
+}  #div1610
+{
+    animation-name: example9;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example9
+{
+    from{box-shadow: 1px 1px 38px rgb(255, 255, 255);}
+    to{box-shadow: 1px 1px 38px yellow;}
+}
+#div1611
+{
+    animation-name: example10;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example10
+{
+    from{box-shadow: 1px 1px 38px red;}
+    to{box-shadow: 1px 1px 38px yellow;}
+}  #div1612
+{
+    animation-name: example11;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example11
+{
+    from{box-shadow: 1px 1px 38px rgba(0, 255, 42, 0.26);}
+    to{box-shadow: 1px 1px 38px rgb(0, 255, 64);}
+}
+#div1613
+{
+    animation-name: example12;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example12
+{
+    from{box-shadow: 1px 1px 38px rgb(255, 255, 255);}
+    to{box-shadow: 1px 1px 38px rgb(0, 255, 13);}
+}
+
+

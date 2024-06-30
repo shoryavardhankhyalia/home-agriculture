@@ -1,0 +1,286 @@
+body
+{
+
+    text-align: center;
+
+    background:linear-gradient(#0703ff 0%,#ff0303 100%);
+
+}
+
+.link:hover 
+
+{
+
+    font-size: 25px;
+
+}
+
+h1
+
+{
+
+    text-align: center;
+
+    color: rgb(0, 0, 0);
+
+    font-weight: 900;
+
+    font-family:'Dancing Script', cursive;
+
+    font-style: italic;
+    
+}
+
+.line
+
+{
+
+    height: 6px;
+
+    background-color:aquamarine;
+
+    width: 1300px;
+
+    margin: 8px auto;
+
+}
+
+h3
+
+{
+
+    font-family:unset;
+
+    text-align:center;
+
+    color: rgb(0, 0, 0);
+
+}
+
+#im1
+
+{
+
+    width: 6cm;
+
+    border-radius:30%;
+
+    float:center;
+
+    border-color: aquamarine;
+
+    height:8cm;
+
+}
+
+h4
+
+{
+
+    text-align:left;
+
+    color: rgb(0, 0, 0);
+
+}
+
+h2
+
+{
+
+  text-align:left;
+
+  color: rgb(0, 0, 0);
+
+}
+
+#im3
+
+{
+
+    width: 7cm;
+
+    border-radius: 10%;
+
+    height:10cm;
+
+}
+
+#im4
+
+{
+
+    width: 7cm;
+
+    border-radius:10%;
+
+    height: 10cm;
+
+}
+
+#im5
+
+{
+
+    width: 7cm;
+
+    border-radius: 10%;
+
+    height: 10cm;
+
+}
+
+#im6
+
+{
+
+    width: 6cm;
+
+    border-radius: 7%;
+
+    height: 10cm;
+
+}
+
+#im7
+
+{
+
+    width: 6cm;
+
+    border-radius: 7%;
+
+    height: 10cm;
+
+}
+
+#im8
+
+{
+
+    width: 11cm;
+
+    border-radius: 7%;
+
+    height: 8cm;
+
+}
+
+#Menu
+
+{
+
+    background:linear-gradient(#00f7ff 0%,#00a023 100%);
+
+}
+.menu
+{
+    list-style: none;
+
+    position: fixed;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+
+    background-color: #333;
+
+    z-index:10;
+
+}
+
+#Photo
+
+{
+
+    background:linear-gradient(#33ff00 0%,#ff0303 100%);
+
+}
+
+#Certifications
+
+{
+
+    background:linear-gradient(#2600ff 0%,#ffee00 100%);
+
+}
+
+#Apps
+
+{
+
+    background:linear-gradient(#c403ff 0%,#0011ff 100%);
+
+}
+
+#contact
+
+{
+
+    background:linear-gradient(#ff009d 0%,#00e1ff 100%);
+
+}
+  
+section
+
+{
+
+   background: #4e54c8;
+
+  background: -webkit-linear-gradient(to right, #8f94fb, #4e54c8);
+
+  background: linear-gradient(to right, #8f94fb, #4e54c8);
+
+}
+
+h6
+
+{
+
+    font-size:x-large;
+    
+}
+
+p
+
+{
+
+     color: #00e1ff;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+  
+  li {
+    border-right: 1px solid #bbb;
+  }
+  
+  
+  
+  ul {
+    top: 0;
+    width: 100%;
+  }
+  
